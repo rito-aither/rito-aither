@@ -1,5 +1,6 @@
 ## Hi 
 
+<!--  
 ### 🌱 Programming Languages
 [![Languages](https://skillicons.dev/icons?i=js,ts,py,ruby,html,css)](https://skillicons.dev)
 
@@ -9,7 +10,7 @@
 ### 🌱 Databases & DevOps & Tools
 [![Databases](https://skillicons.dev/icons?i=postgres,mysql,redis)](https://skillicons.dev)   [![DevOps & Tools](https://skillicons.dev/icons?i=docker,aws,github)](https://skillicons.dev)
 
-
+-->
 ---
 
 ### 🌱 DATA.
@@ -22,9 +23,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rito-aither&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rito-aither&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rito-aither&theme=gruvbox)
-// ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rito-aither&theme=gruvbox)
-// ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rito-aither&theme=gruvbox&utcOffset=9)
-
+<!--  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rito-aither&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rito-aither&theme=gruvbox&utcOffset=9)
+-->
 ---
 
 ### 🌱 Trophy
