@@ -22,8 +22,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rito-aither&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rito-aither&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rito-aither&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rito-aither&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rito-aither&theme=gruvbox&utcOffset=9)
+// ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rito-aither&theme=gruvbox)
+// ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rito-aither&theme=gruvbox&utcOffset=9)
 
 ---
 
@@ -39,11 +39,5 @@
   </a>
   <a href="https://github.com/rito-aither">
     <img height="20" src="https://img.shields.io/github/followers/rito-aither?label=Follow&logo=github&style=flat&color=orange&labelColor=7B3F00" />
-  </a>
-  <a href="http://qiita.com/pecobita">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/pecobita/posts.svg" />
-  </a>
-  <a href="http://qiita.com/pecobita">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/pecobita/contributions.svg" />
   </a>
 </p>
